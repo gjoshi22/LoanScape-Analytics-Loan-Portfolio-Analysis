@@ -1,6 +1,6 @@
 # Bank Loan Report: Comprehensive Documentation for Data Analysts
 
-## Dashboard Link: [Financial Loan Analysis] (https://app.powerbi.com/view?r=eyJrIjoiOTQ1YjllODUtMDhlMC00MmEzLThlYTItODMyMGFkM2Y0NTYxIiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9&pageName=ReportSection)
+## Dashboard Link: [Financial Loan Analysis](https://app.powerbi.com/view?r=eyJrIjoiOTQ1YjllODUtMDhlMC00MmEzLThlYTItODMyMGFkM2Y0NTYxIiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9&pageName=ReportSection)
 ## Overview
 
 This comprehensive guide is crafted for data analysts within the banking sector, focusing especially on those dealing with loan data. The documentation aims to provide an in-depth understanding of terminologies, data fields, SQL queries, and analytical frameworks essential for analyzing and interpreting bank loan data effectively. By the conclusion of this document, analysts will be equipped to extract actionable insights from loan data, significantly contributing to their bank's decision-making processes and risk management strategies.
