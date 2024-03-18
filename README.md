@@ -3,7 +3,7 @@
 ## Dashboard Link: [Financial Loan Analysis](https://app.powerbi.com/view?r=eyJrIjoiOTQ1YjllODUtMDhlMC00MmEzLThlYTItODMyMGFkM2Y0NTYxIiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9&pageName=ReportSection)
 ## Overview
 
-This comprehensive guide is crafted for data analysts within the banking sector, focusing especially on those dealing with loan data. The documentation aims to provide an in-depth understanding of terminologies, data fields, SQL queries, and analytical frameworks essential for analyzing and interpreting bank loan data effectively. By the conclusion of this document, analysts will be equipped to extract actionable insights from loan data, significantly contributing to their bank's decision-making processes and risk management strategies.
+This comprehensive guide is crafted for data analysis within the banking sector, focusing especially on those dealing with loan data. The documentation aims to provide an in-depth understanding of terminologies, data fields, SQL queries, and analytical frameworks essential for analyzing and interpreting bank loan data effectively. By the conclusion of this document, analysts will be equipped to extract actionable insights from loan data, significantly contributing to their bank's decision-making processes and risk management strategies.
 
 ## Terminologies and Data Fields
 
@@ -72,3 +72,8 @@ A clear grasp of specific terminologies and data fields is fundamental for effec
 - **TERM**: Overview of loans by their terms, offering insights into varying loan durations' impacts.
 - **EMPLOYEE LENGTH**: Distribution of loans by borrower's employment duration, assessing employment stability's effect on loan viability.
 - **PURPOSE**: Categorization of loans by stated purpose, revealing borrower intentions and preferences.
+
+### Conclusion
+The Bank Loan Report performs a comprehensive data analysis to analyze and interpret bank loan data. Through meticulous data analysis, analysts can help banks manage risk, optimize lending practices, and ultimately drive financial success.
+
+
