@@ -1,4 +1,4 @@
-# Bank Loan Comprehensive Analysis
+# LoanScape Analytics: Loan Portfolio Analysis
 ## Dashboard Link: [Financial Loan Analysis](https://app.powerbi.com/view?r=eyJrIjoiOTQ1YjllODUtMDhlMC00MmEzLThlYTItODMyMGFkM2Y0NTYxIiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9&pageName=ReportSection)
 ## Overview
 
